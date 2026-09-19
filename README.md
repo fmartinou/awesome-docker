@@ -343,6 +343,7 @@ Monitor Docker hosts, containers, and the services running inside them. Self-hos
 - [Site24x7](https://www.site24x7.com/docker-monitoring.html) - :yen: Docker Monitoring for DevOps and IT, SaaS Pay-per-Host model.
 - [Sysdig Monitor](https://www.sysdig.com/products/monitor) - :yen: Software or SaaS service that monitors, alerts, and troubleshoots containers using system calls; container-specific features for Docker and Kubernetes.
 - [Wiremap](https://github.com/codeofmario/wiremap) - A self-hosted visual Docker network topology explorer with real-time log streaming, live stats, embedded terminal, and container inspection.
+- [WUD (What's up Docker?)](https://github.com/getwud/wud) - Self-hosted service to monitor Docker container updates and trigger notifications or automated actions.
 
 ## Security
 
